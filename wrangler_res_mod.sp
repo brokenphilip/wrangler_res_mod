@@ -11,7 +11,7 @@ public Plugin myinfo =
 	author = "brokenphilip",
 	description = "Allows you to modify the resistance of the Wrangler's shield on the fly",
 	version = VERSION,
-	url = "https://steamcommunity.com/id/brokenphilip"
+	url = "https://github.com/brokenphilip/wrangler_res_mod"
 };
 
 Handle cvarDamage;
